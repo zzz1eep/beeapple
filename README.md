@@ -12,3 +12,4 @@
 10. PanX泛科技
     
 ## 加入app
+![image](picture or gif url)
