@@ -12,4 +12,4 @@
 10. PanX泛科技
     
 ## 加入app
-![image](picture or gif url)
+![image](https://github.com/zzz1eep/beeapple/blob/master/1527737178815.jpg)
