@@ -1,5 +1,5 @@
 # beeapple
-基本功能  
+##基本功能  
 1.	操作說明
 2.	eyny電影版連結網址。
 3.	apple news即時新聞。
@@ -11,4 +11,4 @@
 9.	technews:科技新報
 10. PanX泛科技
     
-加入app
+##加入app
