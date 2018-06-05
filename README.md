@@ -13,5 +13,6 @@
     
 ## 加入app
 ![image](https://github.com/zzz1eep/beeapple/blob/master/1527737178815.jpg)
+line id:@rsg9030j
 ## 內容
 ![image](https://github.com/zzz1eep/beeapple/blob/master/1527738418928.jpg)
