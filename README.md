@@ -12,10 +12,10 @@
 10. PanX泛科技
     
 ## 加入app
-![image](https://github.com/zzz1eep/beeapple/blob/master/12500.jpg)  
+![image](https://github.com/zzz1eep/beeapple/blob/master/1527737178815.jpg)  
 
 line id:@rsg9030j  
 
 <a href="https://line.me/R/ti/p/%40rsg9030j"><img height="36" border="0" alt="加入好友" src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png"></a>
 ## 內容
-![image](https://github.com/zzz1eep/beeapple/blob/master/1527738418928.jpg)
+![image](https://github.com/zzz1eep/beeapple/blob/master/12500.jpg)
